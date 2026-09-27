@@ -1,0 +1,28 @@
+﻿<div class="container mt-5" style="max-width: 400px;">
+    <h3 class="text-center mb-3">Login</h3>
+    <div class="text-center ">@ViewBag.Message</div>
+
+    <form action="/Auth/LoginUser" method="post" class="border p-4 shadow-sm rounded">
+        <div class="mb-3">
+            <label class="form-label">Username</label>
+            <input type="text" name="Username" class="form-control" placeholder="Enter username" required />
+        </div>
+
+        <div class="mb-3">
+            <label class="form-label">Email</label>
+            <input type="email" name="Email" class="form-control" placeholder="Enter email" required />
+        </div>
+
+        <div class="mb-3">
+            <label class="form-label">Password</label>
+            <input type="password" name="Password" class="form-control" placeholder="Enter password" required />
+        </div>
+
+        <button type="submit" class="btn btn-primary w-100 mb-3">Login</button>
+
+        <div class="text-center">
+            <span>Don't have an account? </span>
+            <a href="/Auth/Register" class="text-decoration-none">Register here</a>
+        </div>
+    </form>
+</div>

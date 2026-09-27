@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Programming\\DotNET\\CoreMVC\\FirstMVCProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{458DA9AB-D644-E761-2BAA-F785B0FF8AA7}|FirstMVCProject\\FirstMVCProject.csproj|f:\\programming\\dotnet\\coremvc\\firstmvcproject\\firstmvcproject\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458DA9AB-D644-E761-2BAA-F785B0FF8AA7}|FirstMVCProject\\FirstMVCProject.csproj|solutionrelative:firstmvcproject\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458DA9AB-D644-E761-2BAA-F785B0FF8AA7}|FirstMVCProject\\FirstMVCProject.csproj|f:\\programming\\dotnet\\coremvc\\firstmvcproject\\firstmvcproject\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458DA9AB-D644-E761-2BAA-F785B0FF8AA7}|FirstMVCProject\\FirstMVCProject.csproj|solutionrelative:firstmvcproject\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458DA9AB-D644-E761-2BAA-F785B0FF8AA7}|FirstMVCProject\\FirstMVCProject.csproj|f:\\programming\\dotnet\\coremvc\\firstmvcproject\\firstmvcproject\\views\\dashboard\\updateemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{458DA9AB-D644-E761-2BAA-F785B0FF8AA7}|FirstMVCProject\\FirstMVCProject.csproj|solutionrelative:firstmvcproject\\views\\dashboard\\updateemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458DA9AB-D644-E761-2BAA-F785B0FF8AA7}|FirstMVCProject\\FirstMVCProject.csproj|f:\\programming\\dotnet\\coremvc\\firstmvcproject\\firstmvcproject\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{458DA9AB-D644-E761-2BAA-F785B0FF8AA7}|FirstMVCProject\\FirstMVCProject.csproj|solutionrelative:firstmvcproject\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458DA9AB-D644-E761-2BAA-F785B0FF8AA7}|FirstMVCProject\\FirstMVCProject.csproj|f:\\programming\\dotnet\\coremvc\\firstmvcproject\\firstmvcproject\\views\\dashboard\\addemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{458DA9AB-D644-E761-2BAA-F785B0FF8AA7}|FirstMVCProject\\FirstMVCProject.csproj|solutionrelative:firstmvcproject\\views\\dashboard\\addemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458DA9AB-D644-E761-2BAA-F785B0FF8AA7}|FirstMVCProject\\FirstMVCProject.csproj|f:\\programming\\dotnet\\coremvc\\firstmvcproject\\firstmvcproject\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{458DA9AB-D644-E761-2BAA-F785B0FF8AA7}|FirstMVCProject\\FirstMVCProject.csproj|solutionrelative:firstmvcproject\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458DA9AB-D644-E761-2BAA-F785B0FF8AA7}|FirstMVCProject\\FirstMVCProject.csproj|f:\\programming\\dotnet\\coremvc\\firstmvcproject\\firstmvcproject\\dto\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458DA9AB-D644-E761-2BAA-F785B0FF8AA7}|FirstMVCProject\\FirstMVCProject.csproj|solutionrelative:firstmvcproject\\dto\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458DA9AB-D644-E761-2BAA-F785B0FF8AA7}|FirstMVCProject\\FirstMVCProject.csproj|f:\\programming\\dotnet\\coremvc\\firstmvcproject\\firstmvcproject\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{458DA9AB-D644-E761-2BAA-F785B0FF8AA7}|FirstMVCProject\\FirstMVCProject.csproj|solutionrelative:firstmvcproject\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458DA9AB-D644-E761-2BAA-F785B0FF8AA7}|FirstMVCProject\\FirstMVCProject.csproj|f:\\programming\\dotnet\\coremvc\\firstmvcproject\\firstmvcproject\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458DA9AB-D644-E761-2BAA-F785B0FF8AA7}|FirstMVCProject\\FirstMVCProject.csproj|solutionrelative:firstmvcproject\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458DA9AB-D644-E761-2BAA-F785B0FF8AA7}|FirstMVCProject\\FirstMVCProject.csproj|f:\\programming\\dotnet\\coremvc\\firstmvcproject\\firstmvcproject\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458DA9AB-D644-E761-2BAA-F785B0FF8AA7}|FirstMVCProject\\FirstMVCProject.csproj|solutionrelative:firstmvcproject\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458DA9AB-D644-E761-2BAA-F785B0FF8AA7}|FirstMVCProject\\FirstMVCProject.csproj|f:\\programming\\dotnet\\coremvc\\firstmvcproject\\firstmvcproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{458DA9AB-D644-E761-2BAA-F785B0FF8AA7}|FirstMVCProject\\FirstMVCProject.csproj|solutionrelative:firstmvcproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddEmployee.cshtml",
+              "DocumentMoniker": "F:\\Programming\\DotNET\\CoreMVC\\FirstMVCProject\\FirstMVCProject\\Views\\Dashboard\\AddEmployee.cshtml",
+              "RelativeDocumentMoniker": "FirstMVCProject\\Views\\Dashboard\\AddEmployee.cshtml",
+              "ToolTip": "F:\\Programming\\DotNET\\CoreMVC\\FirstMVCProject\\FirstMVCProject\\Views\\Dashboard\\AddEmployee.cshtml",
+              "RelativeToolTip": "FirstMVCProject\\Views\\Dashboard\\AddEmployee.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-27T10:31:35.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\Programming\\DotNET\\CoreMVC\\FirstMVCProject\\FirstMVCProject\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "FirstMVCProject\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "F:\\Programming\\DotNET\\CoreMVC\\FirstMVCProject\\FirstMVCProject\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "FirstMVCProject\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-27T09:48:55.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "F:\\Programming\\DotNET\\CoreMVC\\FirstMVCProject\\FirstMVCProject\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "FirstMVCProject\\Controllers\\DashboardController.cs",
+              "ToolTip": "F:\\Programming\\DotNET\\CoreMVC\\FirstMVCProject\\FirstMVCProject\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "FirstMVCProject\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAwGAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T09:46:59.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "F:\\Programming\\DotNET\\CoreMVC\\FirstMVCProject\\FirstMVCProject\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "FirstMVCProject\\Controllers\\AuthController.cs",
+              "ToolTip": "F:\\Programming\\DotNET\\CoreMVC\\FirstMVCProject\\FirstMVCProject\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "FirstMVCProject\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAAFUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T05:33:36.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateEmployee.cshtml",
+              "DocumentMoniker": "F:\\Programming\\DotNET\\CoreMVC\\FirstMVCProject\\FirstMVCProject\\Views\\Dashboard\\UpdateEmployee.cshtml",
+              "RelativeDocumentMoniker": "FirstMVCProject\\Views\\Dashboard\\UpdateEmployee.cshtml",
+              "ToolTip": "F:\\Programming\\DotNET\\CoreMVC\\FirstMVCProject\\FirstMVCProject\\Views\\Dashboard\\UpdateEmployee.cshtml",
+              "RelativeToolTip": "FirstMVCProject\\Views\\Dashboard\\UpdateEmployee.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-27T10:59:22.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "F:\\Programming\\DotNET\\CoreMVC\\FirstMVCProject\\FirstMVCProject\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "FirstMVCProject\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "F:\\Programming\\DotNET\\CoreMVC\\FirstMVCProject\\FirstMVCProject\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "FirstMVCProject\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-26T05:39:23.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "F:\\Programming\\DotNET\\CoreMVC\\FirstMVCProject\\FirstMVCProject\\Dto\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "FirstMVCProject\\Dto\\EmployeeDto.cs",
+              "ToolTip": "F:\\Programming\\DotNET\\CoreMVC\\FirstMVCProject\\FirstMVCProject\\Dto\\EmployeeDto.cs",
+              "RelativeToolTip": "FirstMVCProject\\Dto\\EmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T10:25:07.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "F:\\Programming\\DotNET\\CoreMVC\\FirstMVCProject\\FirstMVCProject\\Views\\Auth\\Register.cshtml",
+              "RelativeDocumentMoniker": "FirstMVCProject\\Views\\Auth\\Register.cshtml",
+              "ToolTip": "F:\\Programming\\DotNET\\CoreMVC\\FirstMVCProject\\FirstMVCProject\\Views\\Auth\\Register.cshtml",
+              "RelativeToolTip": "FirstMVCProject\\Views\\Auth\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-26T06:35:57.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "F:\\Programming\\DotNET\\CoreMVC\\FirstMVCProject\\FirstMVCProject\\Models\\User.cs",
+              "RelativeDocumentMoniker": "FirstMVCProject\\Models\\User.cs",
+              "ToolTip": "F:\\Programming\\DotNET\\CoreMVC\\FirstMVCProject\\FirstMVCProject\\Models\\User.cs",
+              "RelativeToolTip": "FirstMVCProject\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T10:11:00.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "F:\\Programming\\DotNET\\CoreMVC\\FirstMVCProject\\FirstMVCProject\\Dto\\UserDto.cs",
+              "RelativeDocumentMoniker": "FirstMVCProject\\Dto\\UserDto.cs",
+              "ToolTip": "F:\\Programming\\DotNET\\CoreMVC\\FirstMVCProject\\FirstMVCProject\\Dto\\UserDto.cs",
+              "RelativeToolTip": "FirstMVCProject\\Dto\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T06:44:40.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\Programming\\DotNET\\CoreMVC\\FirstMVCProject\\FirstMVCProject\\appsettings.json",
+              "RelativeDocumentMoniker": "FirstMVCProject\\appsettings.json",
+              "ToolTip": "F:\\Programming\\DotNET\\CoreMVC\\FirstMVCProject\\FirstMVCProject\\appsettings.json",
+              "RelativeToolTip": "FirstMVCProject\\appsettings.json",
+              "ViewState": "AgIAAAEAAAAAAAAAAEBVwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-26T05:30:04.59Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

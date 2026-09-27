@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Programming\\DotNET\\Projects\\Student Management System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3B4C3E-861D-4963-85BD-6B9DF4B752FF}|Student Management System\\Student Management System.csproj|f:\\programming\\dotnet\\projects\\student management system\\student management system\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6E3B4C3E-861D-4963-85BD-6B9DF4B752FF}|Student Management System\\Student Management System.csproj|solutionrelative:student management system\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3B4C3E-861D-4963-85BD-6B9DF4B752FF}|Student Management System\\Student Management System.csproj|f:\\programming\\dotnet\\projects\\student management system\\student management system\\admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6E3B4C3E-861D-4963-85BD-6B9DF4B752FF}|Student Management System\\Student Management System.csproj|solutionrelative:student management system\\admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3B4C3E-861D-4963-85BD-6B9DF4B752FF}|Student Management System\\Student Management System.csproj|f:\\programming\\dotnet\\projects\\student management system\\student management system\\admin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E3B4C3E-861D-4963-85BD-6B9DF4B752FF}|Student Management System\\Student Management System.csproj|solutionrelative:student management system\\admin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3B4C3E-861D-4963-85BD-6B9DF4B752FF}|Student Management System\\Student Management System.csproj|f:\\programming\\dotnet\\projects\\student management system\\student management system\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6E3B4C3E-861D-4963-85BD-6B9DF4B752FF}|Student Management System\\Student Management System.csproj|solutionrelative:student management system\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3B4C3E-861D-4963-85BD-6B9DF4B752FF}|Student Management System\\Student Management System.csproj|f:\\programming\\dotnet\\projects\\student management system\\student management system\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6E3B4C3E-861D-4963-85BD-6B9DF4B752FF}|Student Management System\\Student Management System.csproj|solutionrelative:student management system\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3B4C3E-861D-4963-85BD-6B9DF4B752FF}|Student Management System\\Student Management System.csproj|f:\\programming\\dotnet\\projects\\student management system\\student management system\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E3B4C3E-861D-4963-85BD-6B9DF4B752FF}|Student Management System\\Student Management System.csproj|solutionrelative:student management system\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3B4C3E-861D-4963-85BD-6B9DF4B752FF}|Student Management System\\Student Management System.csproj|f:\\programming\\dotnet\\projects\\student management system\\student management system\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6E3B4C3E-861D-4963-85BD-6B9DF4B752FF}|Student Management System\\Student Management System.csproj|solutionrelative:student management system\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.aspx",
+              "DocumentMoniker": "F:\\Programming\\DotNET\\Projects\\Student Management System\\Student Management System\\Home.aspx",
+              "RelativeDocumentMoniker": "Student Management System\\Home.aspx",
+              "ToolTip": "F:\\Programming\\DotNET\\Projects\\Student Management System\\Student Management System\\Home.aspx",
+              "RelativeToolTip": "Student Management System\\Home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-15T10:46:01.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Admin.aspx.cs",
+              "DocumentMoniker": "F:\\Programming\\DotNET\\Projects\\Student Management System\\Student Management System\\Admin.aspx.cs",
+              "RelativeDocumentMoniker": "Student Management System\\Admin.aspx.cs",
+              "ToolTip": "F:\\Programming\\DotNET\\Projects\\Student Management System\\Student Management System\\Admin.aspx.cs",
+              "RelativeToolTip": "Student Management System\\Admin.aspx.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAAEoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T10:25:19.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Admin.aspx",
+              "DocumentMoniker": "F:\\Programming\\DotNET\\Projects\\Student Management System\\Student Management System\\Admin.aspx",
+              "RelativeDocumentMoniker": "Student Management System\\Admin.aspx",
+              "ToolTip": "F:\\Programming\\DotNET\\Projects\\Student Management System\\Student Management System\\Admin.aspx",
+              "RelativeToolTip": "Student Management System\\Admin.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-15T10:18:05.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "F:\\Programming\\DotNET\\Projects\\Student Management System\\Student Management System\\Login.aspx",
+              "RelativeDocumentMoniker": "Student Management System\\Login.aspx",
+              "ToolTip": "F:\\Programming\\DotNET\\Projects\\Student Management System\\Student Management System\\Login.aspx",
+              "RelativeToolTip": "Student Management System\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-15T10:05:49.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Web.config",
+              "DocumentMoniker": "F:\\Programming\\DotNET\\Projects\\Student Management System\\Student Management System\\Web.config",
+              "RelativeDocumentMoniker": "Student Management System\\Web.config",
+              "ToolTip": "F:\\Programming\\DotNET\\Projects\\Student Management System\\Student Management System\\Web.config",
+              "RelativeToolTip": "Student Management System\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-15T09:43:52.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.aspx.cs",
+              "DocumentMoniker": "F:\\Programming\\DotNET\\Projects\\Student Management System\\Student Management System\\Register.aspx.cs",
+              "RelativeDocumentMoniker": "Student Management System\\Register.aspx.cs",
+              "ToolTip": "F:\\Programming\\DotNET\\Projects\\Student Management System\\Student Management System\\Register.aspx.cs",
+              "RelativeToolTip": "Student Management System\\Register.aspx.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAYwCMAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T09:38:27.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.aspx",
+              "DocumentMoniker": "F:\\Programming\\DotNET\\Projects\\Student Management System\\Student Management System\\Register.aspx",
+              "RelativeDocumentMoniker": "Student Management System\\Register.aspx",
+              "ToolTip": "F:\\Programming\\DotNET\\Projects\\Student Management System\\Student Management System\\Register.aspx",
+              "RelativeToolTip": "Student Management System\\Register.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-15T09:26:41.145Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
